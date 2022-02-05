@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.6cd57613.css",
-    "main.js": "/static/js/main.8568ecad.js",
-    "index.html": "/index.html",
-    "main.6cd57613.css.map": "/static/css/main.6cd57613.css.map",
-    "main.8568ecad.js.map": "/static/js/main.8568ecad.js.map"
+    "main.css": "/how-to-remember/static/css/main.6cd57613.css",
+    "main.js": "/how-to-remember/static/js/main.8568ecad.js",
+    "index.html": "/how-to-remember/index.html",
+    "main.6cd57613.css.map": "/how-to-remember/static/css/main.6cd57613.css.map",
+    "main.8568ecad.js.map": "/how-to-remember/static/js/main.8568ecad.js.map"
   },
   "entrypoints": [
     "static/css/main.6cd57613.css",
